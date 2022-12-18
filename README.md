@@ -9,7 +9,7 @@ https://docs.github.com/fr/get-started/quickstart/contributing-to-projects#makin
 Submit your pull request and after discussion if it's valid it will be merged to the original repo!
 
 Folder structure
-image.png
+
 /contracts : for writing your solidity contracts.
 /scripts for writing Javascript hardhat scripts to interact with your contracts
 /test for writing unit test to test your contracts
